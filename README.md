@@ -10,7 +10,7 @@ This is a simple calculator web application built with HTML, CSS, and JavaScript
 # Demo
 You can try out the calculator using: https://odudaniel.github.io/Calculator/
 
-Usage
+# Usage
 1. Enter numbers using the displayed numbers.
 2. Press the "Clear" button to clear the input.
 3. Press the "Delete" button to delete the input.
